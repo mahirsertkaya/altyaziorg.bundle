@@ -1,0 +1,1 @@
+[{"id": "username","label": "Username:","type": "text"},{"id": "password","label": "Password:","type": "text","option": "hidden","secure": "true"}]
